@@ -1,0 +1,9 @@
+//This file handles the displaying of the rules for the Rules Plugin.
+//Please note, do not put numbers next to the rules, it should just be one rule after another.
+//Example
+
+// Rule 1
+// Rule 2
+// Rule 3
+
+//---------------------START RULES BELOW-------------------
