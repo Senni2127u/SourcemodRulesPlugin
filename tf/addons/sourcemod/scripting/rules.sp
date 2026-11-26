@@ -52,7 +52,7 @@ public Plugin myinfo =
     author      = "Senni",
     description = "Shows the server rules (with per-rule explanations) when a player types !rules or /rules",
     version     = PLUGIN_VERSION,
-    url         = ""
+    url         = "https://github.com/Senni2127u/SourcemodRulesPlugin"
 };
 
 // ---------------------------------------------------------------------
