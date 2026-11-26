@@ -8,7 +8,7 @@
 // in chat (or runs sm_rules in console). Rules that have a longer
 // explanation get an "Explain rule N" button.
 //
-// Rules are read from: addons/sourcemod/configs/rules_required/rules.txt
+// Rules are read from: addons/sourcemod/configs/rules/rules.txt
 //
 // File format, one rule per line:
 //     Rule text | Longer explanation shown when its button is pressed
